@@ -4,7 +4,7 @@ If you don't know much about computers or programming, you may not know git eith
 
 ## What is git?
 
-Git it's a type of document that is used to have a well organized programming. With it you can work with a team together using the cloud at the same time, using webpages as github.
+Git is a tool that is used to track changes among different files, usually programming projects. It runs on your computer, and it is usually paired with online git services, such as github, that allow you share code changes with a team.
 
 ### How could I work with?
 
