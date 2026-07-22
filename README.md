@@ -4,7 +4,7 @@
 
 ### Currently
 - 🔬 Research Assistant @ USF's **EnCoDe Lab**, working on the *Pizza Project* — AR-based educational tools for child-computer interaction
-- 🏆 VP of Technology, **SHPE Tech Team** — organizing Hack-A-Bull & HackJam
+- 🏆 VP of Technology 2026, **SHPE Tech Team** - organizing Hack-A-Bull & HackJam
 - 📚 Grinding NeetCode 150 + prepping for Fall 2026 hackathon season (Hackabull, HackUSF, SharkByte, ShellHacks, SwampHacks, BloomHacks)
 - 💼 Open to SWE internships and full-stack / founding-engineer roles at early-stage startups
 
@@ -27,37 +27,12 @@
 
 ### Contribution Skyline
 
-on:
-  schedule:
-    - cron: "0 18 * * *"   # 03:00 JST / matches upstream default schedule
-  workflow_dispatch:        # lets you trigger it manually from the Actions tab
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v5
-
-      - name: Generate 3D contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: giamsoo23
-
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          if git commit -m "generated"; then
-            git push
-          fi
+![3D Contribution Skyline](./profile-3d-contrib/profile-night-view.svg)
 
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gregoryramirezf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramiro2112gr@gmail.com)
+
+
+
