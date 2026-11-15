@@ -7,6 +7,11 @@
 - 📚 Grinding NeetCode 150 + prepping for Fall 2026 hackathon season (Hackabull, HackUSF, SharkByte, ShellHacks, SwampHacks, BloomHacks)
 - 💼 Open to SWE internships and full-stack / founding-engineer roles at early-stage startups
 
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gregoryramirezf)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramiro2112gr@gmail.com)
+
 ### Tech Stack
 
 **Languages**
@@ -21,8 +26,3 @@
 ### Contribution Skyline
 
 ![3D Contribution Skyline](./profile-3d-contrib/profile-night-view.svg)
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gregoryramirezf)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramiro2112gr@gmail.com)
