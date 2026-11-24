@@ -4,7 +4,7 @@
 
 ### Currently
 - 🔬 Research Assistant @ USF's **EnCoDe Lab**, working on the *Pizza Project* — AR-based educational tools for child-computer interaction
-- 📚 Grinding NeetCode 150 + prepping for Fall 2026 hackathon season (Hackabull, HackUSF, SharkByte, ShellHacks, SwampHacks, BloomHacks)
+- 📚 Grinding NeetCode 150 + prepping for Fall 2026 hackathon season
 - 💼 Open to SWE internships and full-stack / founding-engineer roles at early-stage startups
 
 ### Connect
